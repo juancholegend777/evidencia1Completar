@@ -20,7 +20,7 @@ public class Vehiculo {
     }
 
     public String getMarca() {
-        return ***********;
+        return marca;
     }
 
     public String getTipo() {
