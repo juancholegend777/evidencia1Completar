@@ -16,7 +16,7 @@ public class Vehiculo {
 
     // Métodos getter para obtener los valores de los atributos
     public String getCodigo() {
-        return ***********;
+        return codigo;
     }
 
     public String getMarca() {
