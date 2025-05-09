@@ -24,7 +24,7 @@ public class Vehiculo {
     }
 
     public String getTipo() {
-        return ***********;
+        return tipo;
     }
 
     public int getModelo() {
