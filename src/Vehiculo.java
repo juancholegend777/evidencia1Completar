@@ -51,7 +51,7 @@ class Auto extends Vehiculo {
 
 class Camioneta extends Vehiculo {
     // Constructor de la clase Camioneta
-    public Camioneta(String *****, String marca, int *****, double kilometraje) {
+    public Camioneta(String codigo, String marca, int modelo, double kilometraje) {
         super(codigo, marca, "Camioneta", modelo, ***********);
     }
 }
