@@ -59,6 +59,6 @@ class Camioneta extends Vehiculo {
 class Motocicleta extends Vehiculo {
     // Constructor de la clase Motocicleta
     public Motocicleta(String codigo, String marca, int modelo, double kilometraje) {
-        super(codigo, ********, "Motocicleta", modelo, kilometraje);
+        super(codigo, marca, "Motocicleta", modelo, kilometraje);
     }
 }
