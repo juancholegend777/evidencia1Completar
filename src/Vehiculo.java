@@ -32,7 +32,7 @@ public class Vehiculo {
     }
 
     public double getKilometraje() {
-        return ***********;
+        return kilometraje;
     }
 
     // Método toString para representar la información del vehículo en texto
