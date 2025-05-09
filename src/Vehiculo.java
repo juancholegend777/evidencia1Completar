@@ -28,7 +28,7 @@ public class Vehiculo {
     }
 
     public int getModelo() {
-        return ***********;
+        return modelo;
     }
 
     public double getKilometraje() {
