@@ -10,7 +10,7 @@ public class Venta {
         this.monto = monto;
         this.vehiculo = vehiculo;
         this.apellido = apellido;
-        this.nombre = ******;
+        this.nombre = nombre;
         this.***** = documento;
     }
 
